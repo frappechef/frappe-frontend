@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, Radio } from '@saltswap/uikit'
+import { Card, Radio } from '@frappefinance-libs/uikit'
 
 interface SelectionCardProps {
   name: string

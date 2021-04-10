@@ -1947,10 +1947,10 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@saltswap/eslint-config-salt@1.0.0":
+"@frappefinance-libs/eslint-config-frappe@1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@saltswap/eslint-config-salt/-/eslint-config-salt-1.0.0.tgz#cc004c324f7c8a5ea1000b4e297f7014d00d7fe8"
-  integrity sha512-OwrY2azm3ICCuulxBfG1QBGYyd4uxsWzU1imMVzjmWw9rNiVPX0Rb8WBlfNRkI/ZxEH37NWQ4aTgnrI4jOkd4Q==
+  resolved "https://registry.npmjs.org/@frappefinance-libs/eslint-config-frappe/-/eslint-config-frappe-1.0.0.tgz#7e7ee1cc0cbfbbb2b6c55c374bcdaa9957e63912"
+  integrity sha512-50l7+UcTA4zZGNd/3wAfiKZI63Il/EaO+uvu4tDeJou5fVK4hwaTQ2QgXYzuOWaPQNToZatP25LfKbMFSLKwCQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.2.0"
     "@typescript-eslint/parser" "^4.2.0"
@@ -1961,10 +1961,10 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.2.0"
 
-"@saltswap/uikit@^1.0.0":
+"@frappefinance-libs/uikit@^1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@saltswap/uikit/-/uikit-1.0.0.tgz#61683ff3e3f39df57fde7a13c2381caa711f28eb"
-  integrity sha512-Xe/OrNqLkqPbA2DbpmwCBUqVwQZYHM8skfW1hl5xl+d4Freke+IKcpGjtoZqlxL1dJ3tuOgbFwzM4xMsCV3jHw==
+  resolved "https://registry.npmjs.org/@frappefinance-libs/uikit/-/uikit-1.0.0.tgz#4066c5080e06125e900c6dddaef8a97b90af92f6"
+  integrity sha512-Pj8zfKSbRsxxvj3BGQaohit8pR2BJAnHp/0hsDfTw8VyvCRc+pKxP0BgRlHuvoNRQQBKckkrunZx4jm0d9jaLQ==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

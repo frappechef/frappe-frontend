@@ -1,4 +1,4 @@
-import { MenuEntry } from '@saltswap/uikit'
+import { MenuEntry } from '@frappefinance-libs/uikit'
 
 const config: MenuEntry[] = [
   {
@@ -12,21 +12,21 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.saltswap.finance',
+        href: 'https://exchange.frappe.finance',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.saltswap.finance/#/pool',
+        href: 'https://exchange.frappe.finance/#/pool',
       },
     ],
   },
   {
-    label: 'Farms',
+    label: 'Frappe Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Salty Pools',
+    label: 'Frappe Pools',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -65,19 +65,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://saltswap.info',
+        href: 'https://info.frappe.finance',
       },
       {
         label: 'Tokens',
-        href: 'https://saltswap.info/tokens',
+        href: 'https://info.frappe.finance/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://saltswap.info/pairs',
+        href: 'https://info.frappe.finance/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://saltswap.info/accounts',
+        href: 'https://info.frappe.finance/accounts',
       },
     ],
   },
@@ -92,19 +92,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Voting',
-        href: 'https://voting.saltswap.finance',
+        href: 'https://voting.frappe.finance',
       },
       {
         label: 'Github',
-        href: 'https://github.com/saltswap',
+        href: 'https://github.com/frappechef',
       },
       {
         label: 'Docs',
-        href: 'https://docs.saltswap.finance',
+        href: 'https://docs.frappe.finance',
       },
       {
         label: 'Blog',
-        href: 'https://saltswap.medium.com',
+        href: 'https://frappefinance.medium.com',
       },
     ],
   },

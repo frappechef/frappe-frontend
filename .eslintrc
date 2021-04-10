@@ -11,7 +11,7 @@
     "browser": true,
     "jest": true
   },
-  "extends": "@saltswap/eslint-config-salt",
+  "extends": "@frappefinance-libs/eslint-config-frappe",
   "rules": {
     "no-console": ["warn", { "allow": ["info", "warn", "error"] }],
     "no-plusplus": 0,
